@@ -1,9 +1,13 @@
 👋 Hello, world! I'm Alex! 🚀
 
 🌟 Passionate about coding and the world of technology.
+<br>
 📚 Currently on a journey of continuous learning and exploration.
+<br>
 💻 Full-stack web developer by day, coding enthusiast by night.
+<br>
 🎓 Teaching others the art of web development.
+<br>
 🌐 Here are some of the technologies I use:
 
 | Frontend        | Backend       | Databases      | Additional Skills |
