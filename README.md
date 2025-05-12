@@ -12,9 +12,9 @@
 
 | Frontend        | Backend       | Databases      | Additional Skills |
 |-----------------|---------------|----------------|-------------------|
-| HTML            | Node.js       | MongoDB        | Teaching          |
+| HTML            | Node.js       | MongoDB        | Mentoring          |
 | CSS             | Express       | MySQL          | Cybersecurity     |
-| JavaScript      | PHP           |                |                   |
+| JavaScript      | PHP           |                | Artificial Intelligence     |
 | React           | Symfony       |                |                   |
 
 [![HTML](https://img.shields.io/badge/HTML-5-green)](https://developer.mozilla.org/en-US/docs/Web/HTML)
