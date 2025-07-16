@@ -1,8 +1,11 @@
-<div align="center">
-  <img height="250" src="https://i.postimg.cc/gkb4Yq5g/profile-human.png"  />
+<div align="right">
+  <a href="https://www.linkedin.com/in/alexandra-zambrano-614309285/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:alexandrazambrano0101@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
-
-###
 
 <p align="left">👋 Hello, world! I'm Alex! 🚀<br><br>🌟 Passionate about coding and the world of technology.<br>📚 Currently on a journey of continuous learning and exploration.<br>💻 Full-stack web developer by day, coding enthusiast by night.<br>🎓 Teaching others the art of web development.<br>🌐 Here are some of the technologies I use:</p>
 
@@ -91,21 +94,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AlexandraZambrano&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=AlexandraZambrano&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="120" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexandraZambrano&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h5 align="left">Contact me</h5>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/alexandra-zambrano-614309285/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:alexandrazambrano0101@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
